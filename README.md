@@ -1,5 +1,3 @@
-<img align="center" alt="Livia-hello" height="100%" width="2000" src="https://github.com/LiviaMartinss/header.svg/blob/main/readme.svg">
-
 ### Olá! Eu sou o Ravi Silva
 
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
