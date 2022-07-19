@@ -1,9 +1,9 @@
-### Olá! Eu sou o Ravi Silva
+### Ravi Silva
 
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas
-- 🏢 UNIFOR - Universidade de Fortaleza
-- ⭕ 4° Semestre
-- 📧 Email: ravifelipee@gmail.com
+- Desenvolvedor Trainee | Levoo Mercado
+-  Graduando em Análise e Desenvolvimento de Sistemas | 4° Semestre
+-  UNIFOR - Universidade de Fortaleza
+-  Email: ravifelipee@gmail.com
 
 
 <div align="center">
