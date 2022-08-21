@@ -1,7 +1,7 @@
 ### Ravi Silva
 
 - Developer Trainee
--  Graduando em Análise e Desenvolvimento de Sistemas | 4° Semestre
+-  Graduando em Análise e Desenvolvimento de Sistemas | 5° Semestre
 -  UNIFOR - Universidade de Fortaleza
 -  Email: ravifelipee@gmail.com
 
