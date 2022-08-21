@@ -1,6 +1,6 @@
 ### Ravi Silva
 
-- Desenvolvedor Trainee | Levoo Mercado
+- Desenvolvedor Trainee
 -  Graduando em Análise e Desenvolvimento de Sistemas | 4° Semestre
 -  UNIFOR - Universidade de Fortaleza
 -  Email: ravifelipee@gmail.com
