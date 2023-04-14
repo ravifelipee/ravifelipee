@@ -1,6 +1,6 @@
 ### Ravi Silva
 
-- Estagiário em Controle de Qualidade | Polibras Software
+- Analista de Qualidade Trainee - QA Tester | Polibras Software
 -  Graduando em Análise e Desenvolvimento de Sistemas
 -  UNIFOR - Universidade de Fortaleza
 -  Email: ravifelipee@gmail.com
