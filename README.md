@@ -1,8 +1,6 @@
 ### Ravi Silva
 
-- Analista de Qualidade Trainee - QA Tester | Polibras Software
--  Graduando em Análise e Desenvolvimento de Sistemas
--  UNIFOR - Universidade de Fortaleza
+- Analista de Qualidade Junior - QA Tester | Polibras Software
 -  Email: ravifelipee@gmail.com
   
 <div style="display: inline_block"><br>
