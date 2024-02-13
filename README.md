@@ -2,6 +2,8 @@
 
 - Analista de Qualidade Junior - QA Tester | Polibras Software
 -  Email: ravifelipee@gmail.com
+-  Website: https://ravifel.github.io/
+-  Linkedln: https://www.linkedin.com/in/ravifel/
   
 <div style="display: inline_block"><br>
     <img align="center" alt="Ravi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
